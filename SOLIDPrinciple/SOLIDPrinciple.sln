@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciple", "SOLIDPrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{5945FF08-BDF7-40B2-B7DE-9E23CBE2B823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{581556B2-F991-4C63-92F3-2B8354837ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5945FF08-BDF7-40B2-B7DE-9E23CBE2B823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5945FF08-BDF7-40B2-B7DE-9E23CBE2B823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5945FF08-BDF7-40B2-B7DE-9E23CBE2B823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581556B2-F991-4C63-92F3-2B8354837ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581556B2-F991-4C63-92F3-2B8354837ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581556B2-F991-4C63-92F3-2B8354837ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581556B2-F991-4C63-92F3-2B8354837ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
